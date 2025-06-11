@@ -1,4 +1,7 @@
-## Hi there 👋
+#### <marquee>Hello World!👋 Welcome To My Github Page🚀</marquee> 
+
+![Deku-foryou](img/after_school_fight_by_kirokaze_djnt626.gif)
+
 
 <!--
 **Deku-foryou/Deku-foryou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
