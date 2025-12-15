@@ -1,15 +1,12 @@
-<<<<<<< HEAD
+
 ## Hello World!👋
 
 **My name is Maghribi.. <br>I'm usually called _"Deku"_.
 よろしくお願いします 🤖**
-=======
 
 
 https://github.com/user-attachments/assets/ce1b2173-6e13-4251-a911-06bdbb7878a4
 
-#### <marquee>Hello World!👋 Welcome To My Github Page🚀</marquee> 
->>>>>>> 605819a9bf892f10212db0941eb7707ba4422f5d
 
 ![Deku-foryou](img/after_school_fight_by_kirokaze_djnt626.gif)
 
