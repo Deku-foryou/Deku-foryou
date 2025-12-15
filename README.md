@@ -1,14 +1,11 @@
 
-## Hello World!👋
+## Hello World! 👋
 
-**My name is Maghribi.. <br>I'm usually called _"Deku"_.
-よろしくお願いします 🤖**
-
-
-https://github.com/user-attachments/assets/ce1b2173-6e13-4251-a911-06bdbb7878a4
+**My name is Maghribi.. <br>I'm usually called _"Deku"_.<br> よろしくお願いします 🤖**
 
 
-![Deku-foryou](img/after_school_fight_by_kirokaze_djnt626.gif)
+
+![Deku-foryou](img/download.gif)
 
 
 <!--
