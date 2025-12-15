@@ -1,4 +1,7 @@
-#### <marquee>Hello World!👋 Welcome To My Github Page🚀</marquee> 
+## Hello World!👋
+
+**My name is Maghribi.. <br>I'm usually called _"Deku"_.
+よろしくお願いします 🤖**
 
 ![Deku-foryou](img/after_school_fight_by_kirokaze_djnt626.gif)
 
