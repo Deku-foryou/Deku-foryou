@@ -11,7 +11,7 @@
   <!--
     <h2 align="center"><samp> &gt; About me </samp></h2>
   -->
-    <img src="https://i.pinimg.com/originals/c0/6c/2b/c06c2b9f16567b653e62bea9698a7993.gif" align="right" height=230>
+    <img src="https://i.pinimg.com/originals/c0/6c/2b/c06c2b9f16567b653e62bea9698a7993.gif" align="right" height=210>
   <br>
     <li>
         <b>Real name:</b> Ahmad Reyhan Maghribi
