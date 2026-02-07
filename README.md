@@ -51,5 +51,7 @@
 
   </p>
 </div>
+<br>
+<h1 align="center"><samp>よろしくお願いします✌️ </samp></h1>
   
 </body>
