@@ -26,7 +26,7 @@
         <b>Hobbys:</b> Programming, Gaming, and Music
     </li>
     <li>
-        <b>Current position:</b> College student <a href="https://www.ubhi.ac.id/"><b>@Bhinneka pgri</b></a> as <i>Computer Science</i>
+        <b>Current position:</b> Computer Science Student at <a href="https://www.ubhi.ac.id/"><b>@Bhinneka pgri</b></a> 
     </li>
     <br>
 </div>
