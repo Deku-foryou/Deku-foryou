@@ -32,13 +32,10 @@
 </div>
 <div>
     <h2><samp>&gt; Experience</samp></h2>
-    <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" align="right" height="250px">
     <br>
-
       <samp>
         I enjoy creating software of any kind. Especially large systems of programs that work together are exciting.
       </samp>
-
   </p>
 </div>
 
@@ -60,7 +57,7 @@
   <img src="/img/dino.gif" height="80" />
   <img src="/img/rubik.gif" height="80" />
 
-  <br><br>
+<br><br>
 
   <!-- 3. Tech Stack Badges -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -72,7 +69,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 
-  <br><br>
+<br><br>
 
 </div>
 <div align="center">
