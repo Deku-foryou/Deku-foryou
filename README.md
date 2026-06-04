@@ -1,4 +1,7 @@
-<h1 align="center"><samp> Hey, I am <b><a target="_blank" href="#">DEKU!</a></b></samp></h1>
+<h1 align="center">
+  <samp> Hey, I am <b><a target="_blank" href="#">DEKU!</a></b></samp>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZqMTJrMThkd2hjdzMza2hiaXFlazBjZGxja2Jub3hhMmZyNGd0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtZSl6mcqfmvCBI2cb/giphy.gif" width="35" />
+</h1>
 <br>
 
 <!-- Bagian Profil & Gambar Kanan -->
