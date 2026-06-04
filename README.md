@@ -51,6 +51,45 @@
 
   </p>
 </div>
+
+<div align="center">
+  <!-- 1. Tombol Social & Website -->
+  <a href="LINK_LINKEDIN_KAMU">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="LINK_WEBSITE_KAMU">
+    <img src="https://img.shields.io/badge/Website-E3E3E3?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website"/>
+  </a>
+  
+  <br><br>
+
+  <!-- 2. Custom Icon (Dino dll) -->
+  <!-- Gambar Dino dan Cube di profil temanmu adalah gambar custom. -->
+  <!-- Upload gambar icon milikmu ke dalam repository, lalu ganti link src di bawah ini -->
+  <img src="LINK_GAMBAR_CUBE_1_KAMU.png" height="80" />
+  <img src="LINK_GAMBAR_DINO_KAMU.png" height="80" />
+  <img src="LINK_GAMBAR_CUBE_2_KAMU.png" height="80" />
+
+  <br><br>
+
+  <!-- 3. Tech Stack Badges -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+
+  <br><br>
+
+  <!-- 4. WakaTime Stats -->
+  <!-- Pastikan kamu sudah mengatur WakaTime ID kamu di pengaturan profil WakaTime -->
+  <a href="https://wakatime.com/@USERNAME_WAKATIME_KAMU">
+    <img src="https://wakatime.com/badge/user/ID_WAKATIME_KAMU.svg" alt="WakaTime" />
+  </a>
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Deku-foryou/Deku-foryou/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
 </div>
