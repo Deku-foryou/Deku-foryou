@@ -34,17 +34,7 @@
     <h2><samp>&gt; Experience</samp></h2>
     <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" align="right" height="250px">
     <br>
-    <p align="center">
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-      <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-      <br>
+
       <samp>
         I enjoy creating software of any kind. Especially large systems of programs that work together are exciting.
       </samp>
@@ -54,10 +44,10 @@
 
 <div align="center">
   <!-- 1. Tombol Social & Website -->
-  <a href="LINK_LINKEDIN_KAMU">
+  <a href="linkedin.com/in/ahmad-reyhan-maghribi-569348322">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="LINK_WEBSITE_KAMU">
+  <a href="LINK_WEBSITE">
     <img src="https://img.shields.io/badge/Website-E3E3E3?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website"/>
   </a>
   
@@ -66,9 +56,9 @@
   <!-- 2. Custom Icon (Dino dll) -->
   <!-- Gambar Dino dan Cube di profil temanmu adalah gambar custom. -->
   <!-- Upload gambar icon milikmu ke dalam repository, lalu ganti link src di bawah ini -->
-  <img src="LINK_GAMBAR_CUBE_1_KAMU.png" height="80" />
-  <img src="LINK_GAMBAR_DINO_KAMU.png" height="80" />
-  <img src="LINK_GAMBAR_CUBE_2_KAMU.png" height="80" />
+  <img src="/img/cube.gif" height="80" />
+  <img src="/img/dino.gif" height="80" />
+  <img src="/img/rubik.gif" height="80" />
 
   <br><br>
 
@@ -84,11 +74,6 @@
 
   <br><br>
 
-  <!-- 4. WakaTime Stats -->
-  <!-- Pastikan kamu sudah mengatur WakaTime ID kamu di pengaturan profil WakaTime -->
-  <a href="https://wakatime.com/@USERNAME_WAKATIME_KAMU">
-    <img src="https://wakatime.com/badge/user/ID_WAKATIME_KAMU.svg" alt="WakaTime" />
-  </a>
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Deku-foryou/Deku-foryou/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
