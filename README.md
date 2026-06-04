@@ -1,51 +1,55 @@
-<!DOCTYPE html>
-<body>
-    <h1 align="center"><samp> Hey, I am <b><a target="_blank" href="#">DEKU!</a></b></samp></h1>
+<h1 align="center"><samp> Hey, I am <b><a target="_blank" href="#">DEKU!</a></b></samp></h1>
 <br>
-<div align="center">
-    <!--
-      <img src="https://user-images.githubusercontent.com/57133330/188281475-2538d5b9-074a-405c-99b1-cb34d90cfafb.gif" height=300>
-    -->
-</div>
+
+<!-- Bagian Profil & Gambar Kanan -->
 <div>
-  <!--
-    <h2 align="center"><samp> &gt; About me </samp></h2>
-  -->
-    <img src="https://i.pinimg.com/originals/c0/6c/2b/c06c2b9f16567b653e62bea9698a7993.gif" align="right" height=210>
- <ul style="list-style-type: none;">
+  <img src="https://i.pinimg.com/originals/c0/6c/2b/c06c2b9f16567b653e62bea9698a7993.gif" align="right" height="210">
+  <ul style="list-style-type: none;">
     <li>👨‍💻 <b>Developer:</b> Ahmad Reyhan Maghribi</li>
     <li>🎓 <b>Education:</b> Computer Science Student at <a href="https://www.ubhi.ac.id/"><b>Universitas Bhinneka PGRI</b></a></li>
     <li>🌱 <b>Focus:</b> Full-Stack Web Development</li>
     <li>🎮 <b>Interests:</b> Programming, Gaming, & Music</li>
     <li>🌍 <b>Based in:</b> Indonesia</li>
-</ul>
+  </ul>
 </div>
+
+<!-- Kode ini untuk mencegah gambar nabrak garis bawahnya -->
+<div style="clear: both;"></div>
+<br>
+
+<!-- Bagian Experience -->
 <div>
-    <h2><samp>&gt; Experience</samp></h2>
-    <br>
-      <samp>
-        I enjoy creating software of any kind.<br> Especially large systems of programs that work together are exciting.
-      </samp>
-  </p>
+  <h2><samp>&gt; Experience</samp></h2>
 </div>
 
 <div align="center">
-  <!-- 1. Tombol Social & Website -->
-  <a href="linkedin.com/in/ahmad-reyhan-maghribi-569348322">
+  <br>
+  <!-- 1. Teks I enjoy... -->
+  <samp>
+    I enjoy creating software of any kind.<br>Especially large systems of programs that work together are exciting.
+  </samp>
+  
+  <br><br><br>
+
+  <!-- 2. Tombol Social & Website -->
+  <!-- Tambahkan https:// agar link bisa diklik -->
+  <a href="https://www.linkedin.com/in/ahmad-reyhan-maghribi-569348322">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="LINK_WEBSITE">
+  <a href="LINK_WEBSITE_KAMU_DISINI">
     <img src="https://img.shields.io/badge/Website-E3E3E3?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website"/>
   </a>
 
-  <!-- 2. Custom Icon (Dino dll) -->
-  <!-- Gambar Dino dan Cube di profil temanmu adalah gambar custom. -->
-  <!-- Upload gambar icon milikmu ke dalam repository, lalu ganti link src di bawah ini -->
+  <br><br><br>
+
+  <!-- 3. Custom Icon (Dino dll) -->
   <img src="/img/cube.gif" height="80" />
   <img src="/img/dino.gif" height="80" />
   <img src="/img/rubik.gif" height="80" />
 
-  <!-- 3. Tech Stack Badges -->
+  <br><br><br>
+
+  <!-- 4. Tech Stack Badges -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -55,11 +59,11 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 
-</div>
-<div align="center">
+  <br><br><br>
+
+  <!-- 5. Pacman Graph -->
   <img src="https://raw.githubusercontent.com/Deku-foryou/Deku-foryou/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
 </div>
+
 <br>
 <h1 align="center"><samp>よろしくお願いします✌️ </samp></h1>
-  
-</body>
