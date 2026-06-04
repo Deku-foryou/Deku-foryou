@@ -29,7 +29,7 @@
     I enjoy creating software of any kind.<br>Especially large systems of programs that work together are exciting.
   </samp>
   
-  <br><br><br>
+  <br><br>
 
   <!-- 2. Tombol Social & Website -->
   <!-- Tambahkan https:// agar link bisa diklik -->
@@ -40,14 +40,14 @@
     <img src="https://img.shields.io/badge/Website-E3E3E3?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website"/>
   </a>
 
-  <br><br><br>
+  <br>
 
   <!-- 3. Custom Icon (Dino dll) -->
   <img src="/img/cube.gif" height="80" />
   <img src="/img/dino.gif" height="80" />
   <img src="/img/rubik.gif" height="80" />
 
-  <br><br><br>
+  <br>
 
   <!-- 4. Tech Stack Badges -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -59,11 +59,9 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 
-  <br><br><br>
+  <br>
 
   <!-- 5. Pacman Graph -->
   <img src="https://raw.githubusercontent.com/Deku-foryou/Deku-foryou/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
 </div>
-
-<br>
 <h1 align="center"><samp>よろしくお願いします✌️ </samp></h1>
