@@ -51,6 +51,9 @@
 
   </p>
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Deku-foryou/Deku-foryou/output/dist/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
+</div>
 <br>
 <h1 align="center"><samp>よろしくお願いします✌️ </samp></h1>
   
