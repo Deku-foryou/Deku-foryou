@@ -1,6 +1,6 @@
 <h1 align="center">
   <samp> Hey, I am <b><a target="_blank" href="#">DEKU!</a></b></samp>
-  <img src="/img/dance.gif" width="35" />
+  <img src="/img/dance.gif" width="40" />
 </h1>
 <br>
 
