@@ -71,7 +71,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <br>
-  <br>
   <div align="center">
 <h2>
 <samp>Tools</samp>
@@ -88,7 +87,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-
+<br>
   <!-- 5. Pacman Graph -->
   <img src="https://raw.githubusercontent.com/Deku-foryou/Deku-foryou/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
 </div>
