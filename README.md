@@ -51,7 +51,11 @@
   <img src="/img/rubik.gif" height="80" />
 
   <br>
-
+<div align="center">
+<h2>
+<samp>Tech Stack</samp>
+</h2>
+</div>
   <!-- 4. Tech Stack Badges -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -68,6 +72,11 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <br>
   <br>
+  <div align="center">
+<h2>
+<samp>Tools</samp>
+</h2>
+</div>
   <!-- 5. Tools Badges -->
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -75,8 +84,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Laragon-00A9E0?style=for-the-badge&logoColor=white" alt="Laragon" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  
-  <br> <!-- Baris baru untuk tools tambahan -->
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
