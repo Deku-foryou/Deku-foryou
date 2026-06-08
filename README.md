@@ -8,11 +8,11 @@
 <div>
   <img src="https://i.pinimg.com/originals/c0/6c/2b/c06c2b9f16567b653e62bea9698a7993.gif" align="right" height="210">
   <ul style="list-style-type: none;">
-    <li>👨‍💻 <b>Developer:</b> Ahmad Reyhan Maghribi</li>
-    <li>🎓 <b>Education:</b> Computer Science Student at <a href="https://www.ubhi.ac.id/"><b>Universitas Bhinneka PGRI</b></a></li>
-    <li>🌱 <b>Focus:</b> Full-Stack Web Development</li>
-    <li>🎮 <b>Interests:</b> Programming, Gaming, & Music</li>
-    <li>🌍 <b>Based in:</b> Indonesia</li>
+    <li>👨‍💻 Ahmad Reyhan Maghribi</li>
+    <li>🎓 Computer Science Student at <a href="https://www.ubhi.ac.id/"><b>Universitas Bhinneka PGRI</b></a></li>
+    <li>🌱 Full-Stack Web Development</li>
+    <li>🎮 Programming, Music & Anime</li>
+    <li>🌍 Indonesia</li>
   </ul>
 </div>
 
