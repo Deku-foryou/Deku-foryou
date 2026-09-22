@@ -12,7 +12,7 @@
     <li>🎓 Computer Science Student at <a href="https://www.ubhi.ac.id/"><b>Universitas Bhinneka PGRI</b></a></li>
     <li>🌱 Software Engginer</li>
     <li>🎮 Just Chill & Enjoy for Life</li>
-    <li>🌍 Indonesia</li>
+    <li>🌍 East Java - Indonesia</li>
   </ul>
 </div>
 
