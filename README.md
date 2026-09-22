@@ -10,7 +10,7 @@
   <ul style="list-style-type: none;">
     <li>👨‍💻 Ahmad Reyhan Maghribi</li>
     <li>🎓 Computer Science Student at <a href="https://www.ubhi.ac.id/"><b>Universitas Bhinneka PGRI</b></a></li>
-    <li>🌱 Full-Stack Web Development</li>
+    <li>🌱 Software Engginer</li>
     <li>🎮 Programming, Music & Anime</li>
     <li>🌍 Indonesia</li>
   </ul>
