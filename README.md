@@ -11,7 +11,7 @@
     <li>👨‍💻 Ahmad Reyhan Maghribi</li>
     <li>🎓 Computer Science Student at <a href="https://www.ubhi.ac.id/"><b>Universitas Bhinneka PGRI</b></a></li>
     <li>🌱 Software Engginer</li>
-    <li>🎮 Programming, Music & Anime</li>
+    <li>🎮 Just Chill & Enjoy for Life</li>
     <li>🌍 Indonesia</li>
   </ul>
 </div>
