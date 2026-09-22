@@ -22,7 +22,7 @@
 
 <!-- Bagian Experience -->
 <div>
-  <h2><samp>&gt; Experience</samp></h2>
+  <h2><samp>&gt; About Me</samp></h2>
 </div>
 
 <div align="center">
