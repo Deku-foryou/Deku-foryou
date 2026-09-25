@@ -8,7 +8,7 @@
 <div>
   <img src="https://i.pinimg.com/originals/c0/6c/2b/c06c2b9f16567b653e62bea9698a7993.gif" align="right" height="210">
   <ul style="list-style-type: none;">
-    <li>👨‍💻 Ahmad Reyhan Maghribi</li>
+    <li>👨‍💻 Reyy as Chill Guy</li>
     <li>🎓 Computer Science Student at <a href="https://www.ubhi.ac.id/"><b>Universitas Bhinneka PGRI</b></a></li>
     <li>🌱 Software Engginer</li>
     <li>🎮 Just Chill & Enjoy for Life</li>
