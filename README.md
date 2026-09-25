@@ -4,7 +4,6 @@
 </h1>
 <br>
 
-<!-- Bagian Profil & Gambar Kanan -->
 <div>
   <img src="https://i.pinimg.com/originals/c0/6c/2b/c06c2b9f16567b653e62bea9698a7993.gif" align="right" height="210">
   <ul style="list-style-type: none;">
@@ -16,26 +15,21 @@
   </ul>
 </div>
 
-<!-- Kode ini untuk mencegah gambar nabrak garis bawahnya -->
 <div style="clear: both;"></div>
 <br>
 
-<!-- Bagian Experience -->
+<!-- Experience -->
 <div>
   <h2><samp>&gt; About Me</samp></h2>
 </div>
 
 <div align="center">
   <br>
-  <!-- 1. Teks I enjoy... -->
   <samp>
     I enjoy creating software of any kind.<br>Especially large systems of programs that work together are exciting.
   </samp>
   
   <br><br>
-
-  <!-- 2. Tombol Social & Website -->
-  <!-- Tambahkan https:// agar link bisa diklik -->
   <a href="https://www.linkedin.com/in/ahmad-reyhan-maghribi-569348322">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -45,7 +39,7 @@
 
   <br>
 
-  <!-- 3. Custom Icon (Dino dll) -->
+  <!-- Custom Icon (Dino dll) -->
   <img src="/img/cube.gif" height="80" />
   <img src="/img/dino.gif" height="80" />
   <img src="/img/rubik.gif" height="80" />
@@ -56,7 +50,7 @@
 <samp>Tech Stack</samp>
 </h2>
 </div>
-  <!-- 4. Tech Stack Badges -->
+  <!-- Tech Stack Badges -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -76,7 +70,7 @@
 <samp>Tools</samp>
 </h2>
 </div>
-  <!-- 5. Tools Badges -->
+  <!-- Tools Badges -->
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -91,7 +85,7 @@
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
 <br><br>
-  <!-- 5. Pacman Graph -->
+  <!-- Pacman Graph -->
   <img src="https://raw.githubusercontent.com/Deku-foryou/Deku-foryou/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
 </div>
 <h1 align="center"><samp>よろしくお願いします✌️ </samp></h1>
