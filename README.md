@@ -9,7 +9,7 @@
   <ul style="list-style-type: none;">
     <li>👨‍💻 Reyy as Chill Guy</li>
     <li>🎓 Computer Science Student at <a href="https://www.ubhi.ac.id/"><b>Universitas Bhinneka PGRI</b></a></li>
-    <li>🌱 Software Engginer</li>
+    <li>🌱 Software Developer</li>
     <li>🎮 Just Chill & Enjoy for Life</li>
     <li>🌍 East Java - Indonesia</li>
   </ul>
