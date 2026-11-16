@@ -6,13 +6,33 @@
 
 <div>
   <img src="https://i.pinimg.com/originals/c0/6c/2b/c06c2b9f16567b653e62bea9698a7993.gif" align="right" height="210">
-  <ul style="list-style-type: none;">
-    <li>👨‍💻 Reyy as Chill Guy</li>
-    <li>🎓 Computer Science Student at <a href="https://www.ubhi.ac.id/"><b>Universitas Bhinneka PGRI</b></a></li>
-    <li>🌱 Software Developer</li>
-    <li>🎮 Just Chill & Enjoy for Life</li>
-    <li>🌍 East Java - Indonesia</li>
-  </ul>
+  <h1 align="center">Hi, I'm Reyhan 👋</h1>
+
+<p align="center">
+  <b>Software Engineer</b> · Computer Science Student at Universitas Bhinneka PGRI
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Hello! I'm **Reyhan**, a Software Engineer based in East Java, Indonesia. I'm currently pursuing a degree in Computer Science at **Universitas Bhinneka PGRI**, where I'm building a strong foundation in software development while working on real-world projects.
+
+I enjoy solving problems through code, learning new technologies, and turning ideas into reliable, user-friendly software. I take a calm and consistent approach to my work, because I believe steady progress beats rushing.
+
+## 🚀 What I Do
+
+- 💻 Software development and building projects from scratch
+- 📚 Continuously learning new tools, languages, and best practices
+- 🤝 Open to collaboration, internships, and new opportunities
+
+## 📍 Location
+
+East Java, Indonesia 🇮🇩
+
+## 📫 Let's Connect
+
+Feel free to reach out if you'd like to collaborate or just talk about tech!
 </div>
 
 <div style="clear: both;"></div>
