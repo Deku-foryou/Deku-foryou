@@ -1,5 +1,5 @@
 <h1 align="center">
-  <samp>Hi, I'm <b>Reyhan</b> (a.k.a. DEKU)</samp>
+  <samp>Hi, I'm <b>Reyhan</b> (a.k.a DEKU)</samp>
   <img src="img/dance.gif" width="40" />
 </h1>
 
