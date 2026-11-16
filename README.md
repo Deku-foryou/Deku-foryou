@@ -7,9 +7,10 @@
   <b>Software Engineer</b> · Computer Science Student at Universitas Bhinneka PGRI
 </p>
 
+## 👨‍💻 About Me
+
 <img src="https://i.pinimg.com/originals/c0/6c/2b/c06c2b9f16567b653e62bea9698a7993.gif" align="right" height="210">
 
-## 👨‍💻 About Me
 
 Hello! I'm **Reyhan**, a Software Engineer based in East Java, Indonesia. I'm currently pursuing a degree in Computer Science at **Universitas Bhinneka PGRI**, where I'm building a strong foundation in software development while working on real-world projects.
 
